@@ -1,0 +1,9 @@
+body , .p-component{
+font-family: 'open Sans',sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul {
+    @include rese-list;
+}
